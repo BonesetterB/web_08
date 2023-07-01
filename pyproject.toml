@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "hw08"
+version = "0.1"
+description = "Mono"
+authors = ["Your Name <you@example.com>"]
+license = "n"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

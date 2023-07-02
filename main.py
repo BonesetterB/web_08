@@ -69,4 +69,6 @@ def search():
         else:
             print("unknown command")
 
+add_authors()
+add_quotes()
 search()
